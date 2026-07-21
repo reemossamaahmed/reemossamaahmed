@@ -1,24 +1,134 @@
-# 💫 About Me:
-Laravel Backend Developer specializing in building secure, scalable, and maintainable web applications. Experienced in API development, database design, authentication, authorization, and backend architecture. Always eager to learn, collaborate, and contribute to meaningful projects.
+# 👋 Hi, I'm Reem Ossama
 
+## 💫 About Me
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Egtz5ufr7/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/reemossama80?igsh=MWJ4NDU3empydWtsaw%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reem-ossama-bb0ba1235?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reemhelmy28@gmail.com) 
+💻 Laravel Backend Developer passionate about building secure, scalable, and high-performance web applications.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=reemossamaahmed&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=reemossamaahmed&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=reemossamaahmed&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I specialize in designing RESTful APIs, authentication systems, database architecture, and backend solutions following clean architecture and best practices.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I enjoy solving complex backend challenges, optimizing application performance, and developing maintainable systems that scale.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=reemossamaahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently, I'm focused on building enterprise-level applications including Learning Management Systems (LMS) and HR Management Systems using Laravel.
 
 ---
-[![](https://komarev.com/ghpvc/?username=reemossamaahmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Working On
+
+- 🎓 Learning Management System (LMS)
+- 👨‍💼 HR Management System
+- 🔐 Authentication & Authorization (JWT, Sanctum, Spatie)
+- ⚡ Queue & Background Jobs
+- 📦 RESTful APIs
+- 🗄 Database Design & Optimization
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reemhelmy28@gmail.com)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK)
+
+---
+
+# 💻 Tech Stack
+
+### Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-red?style=for-the-badge)
+![Spatie](https://img.shields.io/badge/Spatie_Permissions-blue?style=for-the-badge)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+
+### Frontend (Integration)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=reemossamaahmed&theme=tokyonight&show_icons=true&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=reemossamaahmed&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemossamaahmed&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reemossamaahmed&theme=tokyo-night)](https://github.com/reemossamaahmed)
+
+---
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=reemossamaahmed&theme=tokyonight&no-frame=true&column=7)
+
+---
+
+## 📌 Featured Projects
+
+### 🎓 Learning Management System
+
+✔ Authentication using JWT
+
+✔ Course & Lesson Management
+
+✔ Quiz & Assignment System
+
+✔ Student Enrollment
+
+✔ Certificates
+
+✔ Queue Jobs
+
+✔ Email Notifications
+
+---
+
+### 👨‍💼 HR Management System
+
+✔ Employee Management
+
+✔ Attendance
+
+✔ Payroll
+
+✔ Departments
+
+✔ Roles & Permissions
+
+✔ Authentication with Sanctum
+
+✔ RESTful APIs
+
+---
+
+### 📫 Reach Me
+
+📧 **reemhelmy28@gmail.com**
+
+💼 Open to Backend Developer opportunities.
+
+---
