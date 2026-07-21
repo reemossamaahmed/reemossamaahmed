@@ -80,11 +80,6 @@ Currently, I'm focused on building enterprise-level applications including Learn
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reemossamaahmed&theme=tokyo-night)](https://github.com/reemossamaahmed)
 
 ---
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=reemossamaahmed&theme=tokyonight&no-frame=true&column=7)
-
----
 
 ## 📌 Featured Projects
 
