@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Reem Ossama
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7DF76A&center=true&vCenter=true&width=850&lines=Laravel+Backend+Developer;Passionate+About+Backend+Architecture;RESTful+API+Development;Authentication+%26+Authorization;Database+Design+%26+Optimization;Always+Learning+New+Things+%F0%9F%9A%80" />
+
+</div>
+
 ## 💫 About Me
 
 💻 Laravel Backend Developer passionate about building secure, scalable, and high-performance web applications.
