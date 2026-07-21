@@ -63,49 +63,6 @@ Currently, I'm focused on building enterprise-level applications including Learn
 
 ---
 
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reemossamaahmed&theme=tokyo-night)](https://github.com/reemossamaahmed)
-
----
-
-## 📌 Featured Projects
-
-### 🎓 Learning Management System
-
-✔ Authentication using JWT
-
-✔ Course & Lesson Management
-
-✔ Quiz & Assignment System
-
-✔ Student Enrollment
-
-✔ Certificates
-
-✔ Queue Jobs
-
-✔ Email Notifications
-
----
-
-### 👨‍💼 HR Management System
-
-✔ Employee Management
-
-✔ Attendance
-
-✔ Payroll
-
-✔ Departments
-
-✔ Roles & Permissions
-
-✔ Authentication with Sanctum
-
-✔ RESTful APIs
-
----
 
 ### 📫 Reach Me
 
