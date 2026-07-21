@@ -29,14 +29,6 @@ Currently, I'm focused on building enterprise-level applications including Learn
 
 ---
 
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reem-ossama-bb0ba1235/)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reemhelmy28@gmail.com)
-
-
----
 
 # 💻 Tech Stack
 
@@ -68,16 +60,6 @@ Currently, I'm focused on building enterprise-level applications including Learn
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=reemossamaahmed&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=reemossamaahmed&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemossamaahmed&layout=compact&theme=tokyonight)
 
 ---
 
