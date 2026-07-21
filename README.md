@@ -67,11 +67,11 @@ Currently, I'm focused on building enterprise-level applications including Learn
 
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=reemossamaahmed&theme=tokyonight&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=reemossamaahmed&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=reemossamaahmed&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=reemossamaahmed&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemossamaahmed&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemossamaahmed&layout=compact&theme=tokyonight)
 
 ---
 
